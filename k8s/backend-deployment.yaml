@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: 320307188832.dkr.ecr.us-east-1.amazonaws.com/tienda-backend:latest
+          image: 099937846902.dkr.ecr.us-east-1.amazonaws.com/tienda-backend:latest
           ports:
             - containerPort: 3001
           env:
